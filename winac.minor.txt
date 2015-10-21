@@ -1,1 +1,3 @@
 winac.minor
+
+winac.minor 2
