@@ -1,4 +1,6 @@
 winac.major
 
 winac.major
-winac.minor1
+winac.minor
+
+1
